@@ -1,0 +1,10 @@
+https://sinonjs.org/releases/v15/
+https://testing-library.com/docs/react-testing-library/cheatsheet
+https://jestjs.io/docs/api
+https://www.codementor.io/@jesselangford472/testing-material-ui-forms-with-react-testing-library-1hkfj1yqap
+
+clone all branches of https://github.com/academind/js-testing-practical-guide-code.git
+
+screen.logTestingPlaygroundURL();
+https://stackoverflow.com/questions/52131231/simple-definition-of-stub-spy-fake-and-mock-in-unit-testing
+https://stackoverflow.com/questions/3459287/whats-the-difference-between-a-mock-stub
