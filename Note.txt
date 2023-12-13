@@ -2,8 +2,11 @@ https://sinonjs.org/releases/v15/
 https://testing-library.com/docs/react-testing-library/cheatsheet
 https://jestjs.io/docs/api
 https://www.codementor.io/@jesselangford472/testing-material-ui-forms-with-react-testing-library-1hkfj1yqap
+https://www.freecodecamp.org/news/write-unit-tests-using-react-testing-library/
 
 clone all branches of https://github.com/academind/js-testing-practical-guide-code.git
+https://www.freecodecamp.org/news/test-a-react-app-with-jest-testing-library-and-cypress/
+https://github.com/bonnie/udemy-NEXTJS-TESTING
 
 screen.logTestingPlaygroundURL();
 https://stackoverflow.com/questions/52131231/simple-definition-of-stub-spy-fake-and-mock-in-unit-testing
